@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+   background-repeat: no-repeat;
+    
+}
+
+body{
+    background-image: url(https://cdn.wallpapersafari.com/74/64/SqsDew.jpg);
+    
+}
+.container{
+    background-image: url;
+    width: 800px;
+    height: 800px;
+     -color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 400px;
+    
+   
+}
+.inp{
+    font-size: 50px;
+    color: rgb(184, 44, 197);
+    margin-left: 50px;
+    margin-top: 200px;
+   border-radius: 10px;
+   border: 5px solid pink;
+   width: 600px;
+   height: 50px;
+   background-color: rgb(241, 133, 133);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   -ms-border-radius: 10px;
+   -o-border-radius: 10px;
+}
+.btn{
+    background-image: url();
+    width: 70px;
+    border: 5px solid pink;
+    border-radius: 3px;
+    height: 30px;
+    background-color: pink;
+    margin-bottom: 100px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+.list{
+   color: white;
+   font-size: 50px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: 100;
+}
+
+.remove{
+    background-color: rgb(239, 173, 173);
+    width: 50px;
+    height: 50px;
+    border: 5px solid rgb(227, 146, 160);
+    border-radius: 5px ;
+    -webkit-border-radius: 5px ;
+    -moz-border-radius: 5px ;
+    -ms-border-radius: 5px ;
+    -o-border-radius: 5px ;
+}
